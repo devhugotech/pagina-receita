@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #4CAF50;
+}
+
+img {
+    display: inline-block;
+    width: 48%;
+    margin-right: 1%;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    vertical-align: top;
+}
+
+.ingredientes {
+    list-style: square;
+    margin-left: 20px;
+}
+
+.preparacao {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.dica {
+    color: #e91e63;
+    font-weight: bold;
+}
